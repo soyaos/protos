@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="SoyaOS" width="120" height="120" />
+</p>
+
 # soyaos/protos
 
 Protocol buffer definitions for the SoyaOS surface area. **Source of truth** for code generation in every official SDK:
